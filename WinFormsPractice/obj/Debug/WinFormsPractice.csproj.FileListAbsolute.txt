@@ -1,0 +1,11 @@
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.csproj.AssemblyReference.cache
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.Properties.Resources.resources
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.csproj.GenerateResource.cache
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.csproj.CoreCompileInputs.cache
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\bin\Debug\WinFormsPractice.exe.config
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\bin\Debug\WinFormsPractice.exe
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\bin\Debug\WinFormsPractice.pdb
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.exe
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.pdb
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.MainForm.resources

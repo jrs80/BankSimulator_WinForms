@@ -1,0 +1,14 @@
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\bin\Debug\WinFormsPractice.exe.config
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\bin\Debug\WinFormsPractice.exe
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\bin\Debug\WinFormsPractice.pdb
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\BankingApp.csproj.AssemblyReference.cache
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\BankingApp.csproj.SuggestedBindingRedirects.cache
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\BankingApp.MainForm.resources
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.Properties.Resources.resources
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\BankingApp.csproj.GenerateResource.cache
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.exe
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.pdb
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\BankingApp.GetBalanceForm.resources
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\BankingApp.DepositForm.resources
+C:\Git_Repos\WinFormsPractice\WinFormsPractice\obj\Debug\BankingApp.WithdrawForm.resources
