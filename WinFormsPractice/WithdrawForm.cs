@@ -28,8 +28,9 @@ namespace BankingApp
                 return;
             }
             else {
-                currentAcct.Withdraw(newBalance);
-                MessageBox.Show($"Withdrawal confirmed.  Your new balance is {Convert.ToString(currentAcct.GetBalance())}", "Withdrawal Confirmation");
+                double newBal = currentAcct.Withdraw(newBalance);
+                if(newBal == -1) return;
+                MessageBox.Show($"Withdrawal confirmed.  Your new balance is {Convert.ToString(newBal)}", "Withdrawal Confirmation");
                 tbWdAmt.Text = "0.00";
             }
         }
